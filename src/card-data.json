@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "type": "Club",
+    "value": "K",
+    "color": "Black"
+  },
+  {
+    "id": 2,
+    "type": "Club",
+    "value": "Q",
+    "color": "Black"
+  },
+  {
+    "id": 3,
+    "type": "Club",
+    "value": "J",
+    "color": "Black"
+  },
+  {
+    "id": 4,
+    "type": "Club",
+    "value": "10",
+    "color": "Black"
+  },
+  {
+    "id": 5,
+    "type": "Club",
+    "value": "9",
+    "color": "Black"
+  },
+  {
+    "id": 6,
+    "type": "Club",
+    "value": "8",
+    "color": "Black"
+  },
+  {
+    "id": 7,
+    "type": "Club",
+    "value": "7",
+    "color": "Black"
+  },
+  {
+    "id": 8,
+    "type": "Club",
+    "value": "6",
+    "color": "Black"
+  },
+  {
+    "id": 9,
+    "type": "Club",
+    "value": "5",
+    "color": "Black"
+  },
+  {
+    "id": 10,
+    "type": "Club",
+    "value": "4",
+    "color": "Black"
+  },
+  {
+    "id": 11,
+    "type": "Club",
+    "value": "3",
+    "color": "Black"
+  },
+  {
+    "id": 12,
+    "type": "Club",
+    "value": "2",
+    "color": "Black"
+  },
+  {
+    "id": 13,
+    "type": "Club",
+    "value": "ACE",
+    "color": "Black"
+  },
+  {
+    "id": 14,
+    "type": "Diamonds",
+    "value": "K",
+    "color": "Red"
+  },
+  {
+    "id": 15,
+    "type": "Diamonds",
+    "value": "Q",
+    "color": "Red"
+  },
+  {
+    "id": 16,
+    "type": "Diamonds",
+    "value": "J",
+    "color": "Red"
+  },
+  {
+    "id": 17,
+    "type": "Diamonds",
+    "value": "10",
+    "color": "Red"
+  },
+  {
+    "id": 18,
+    "type": "Diamonds",
+    "value": "9",
+    "color": "Red"
+  },
+  {
+    "id": 19,
+    "type": "Diamonds",
+    "value": "8",
+    "color": "Red"
+  },
+  {
+    "id": 20,
+    "type": "Diamonds",
+    "value": "7",
+    "color": "Red"
+  },
+  {
+    "id": 21,
+    "type": "Diamonds",
+    "value": "6",
+    "color": "Red"
+  },
+  {
+    "id": 22,
+    "type": "Diamonds",
+    "value": "5",
+    "color": "Red"
+  },
+  {
+    "id": 23,
+    "type": "Diamonds",
+    "value": "4",
+    "color": "Red"
+  },
+  {
+    "id": 24,
+    "type": "Diamonds",
+    "value": "3",
+    "color": "Red"
+  },
+  {
+    "id": 25,
+    "type": "Diamonds",
+    "value": "2",
+    "color": "Red"
+  },
+  {
+    "id": 26,
+    "type": "Diamonds",
+    "value": "ACE",
+    "color": "Red"
+  },
+  {
+    "id": 27,
+    "type": "Hearts",
+    "value": "K",
+    "color": "Red"
+  },
+  {
+    "id": 28,
+    "type": "Hearts",
+    "value": "Q",
+    "color": "Red"
+  },
+  {
+    "id": 29,
+    "type": "Hearts",
+    "value": "J",
+    "color": "Red"
+  },
+  {
+    "id": 30,
+    "type": "Hearts",
+    "value": "10",
+    "color": "Red"
+  },
+  {
+    "id": 31,
+    "type": "Hearts",
+    "value": "9",
+    "color": "Red"
+  },
+  {
+    "id": 32,
+    "type": "Hearts",
+    "value": "8",
+    "color": "Red"
+  },
+  {
+    "id": 33,
+    "type": "Hearts",
+    "value": "7",
+    "color": "Red"
+  },
+  {
+    "id": 34,
+    "type": "Hearts",
+    "value": "6",
+    "color": "Red"
+  },
+  {
+    "id": 35,
+    "type": "Hearts",
+    "value": "5",
+    "color": "Red"
+  },
+  {
+    "id": 36,
+    "type": "Hearts",
+    "value": "4",
+    "color": "Red"
+  },
+  {
+    "id": 37,
+    "type": "Hearts",
+    "value": "3",
+    "color": "Red"
+  },
+  {
+    "id": 38,
+    "type": "Hearts",
+    "value": "2",
+    "color": "Red"
+  },
+  {
+    "id": 39,
+    "type": "Hearts",
+    "value": "ACE",
+    "color": "Red"
+  },
+  {
+    "id": 40,
+    "type": "Spades",
+    "value": "K",
+    "color": "Black"
+  },
+  {
+    "id": 41,
+    "type": "Spades",
+    "value": "Q",
+    "color": "Black"
+  },
+  {
+    "id": 42,
+    "type": "Spades",
+    "value": "J",
+    "color": "Black"
+  },
+  {
+    "id": 43,
+    "type": "Spades",
+    "value": "10",
+    "color": "Black"
+  },
+  {
+    "id": 44,
+    "type": "Spades",
+    "value": "9",
+    "color": "Black"
+  },
+  {
+    "id": 45,
+    "type": "Spades",
+    "value": "8",
+    "color": "Black"
+  },
+  {
+    "id": 46,
+    "type": "Spades",
+    "value": "7",
+    "color": "Black"
+  },
+  {
+    "id": 47,
+    "type": "Spades",
+    "value": "6",
+    "color": "Black"
+  },
+  {
+    "id": 48,
+    "type": "Spades",
+    "value": "5",
+    "color": "Black"
+  },
+  {
+    "id": 49,
+    "type": "Spades",
+    "value": "4",
+    "color": "Black"
+  },
+  {
+    "id": 50,
+    "type": "Spades",
+    "value": "3",
+    "color": "Black"
+  },
+  {
+    "id": 51,
+    "type": "Spades",
+    "value": "2",
+    "color": "Black"
+  },
+  {
+    "id": 52,
+    "type": "Spades",
+    "value": "ACE",
+    "color": "Black"
+  }
+]
